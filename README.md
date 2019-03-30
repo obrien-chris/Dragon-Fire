@@ -6,5 +6,7 @@ Tried to make it so the user would need to pay attention. One also had to spend 
 
 
 ## To Run
+```
 javac DragonFire.java
 java DragonFire
+```
